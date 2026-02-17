@@ -1,1 +1,5 @@
-
+# Anonyymi toivelista
+Tämän projektin osuus on Ermiran ryhmätyönä toteuttava web-sovellus, jossa käyttäjät voivat kirjoittaa toiveita tai kommentteja anonyymisti www-käyttöliittymän kautta. 
+Sovelluksen tarkoituksena on tarjota helppo tapa asiakkaille kertoa toivestaan ilman rekisteröitymistä.
+Sovellus toteutetaan PHP:llä ja MySQL-tietokannalla.
+AJAXia käytetään toiveiden lähettämiseen ja hakemiseen ilman sivun uudelleenlatausta.
